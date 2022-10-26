@@ -1,0 +1,8 @@
+D:\R52\M2\Projects\10\Ex03RepsitoryProject_1270542\Ex03RepsitoryProject_MethodPattern\bin\Debug\Ex03RepsitoryProject_MethodPattern.exe.config
+D:\R52\M2\Projects\10\Ex03RepsitoryProject_1270542\Ex03RepsitoryProject_MethodPattern\bin\Debug\Ex03RepsitoryProject_MethodPattern.exe
+D:\R52\M2\Projects\10\Ex03RepsitoryProject_1270542\Ex03RepsitoryProject_MethodPattern\bin\Debug\Ex03RepsitoryProject_MethodPattern.pdb
+D:\R52\M2\Projects\10\Ex03RepsitoryProject_1270542\Ex03RepsitoryProject_MethodPattern\obj\Debug\Ex03RepsitoryProject_MethodPattern.csproj.AssemblyReference.cache
+D:\R52\M2\Projects\10\Ex03RepsitoryProject_1270542\Ex03RepsitoryProject_MethodPattern\obj\Debug\Ex03RepsitoryProject_MethodPattern.csproj.SuggestedBindingRedirects.cache
+D:\R52\M2\Projects\10\Ex03RepsitoryProject_1270542\Ex03RepsitoryProject_MethodPattern\obj\Debug\Ex03RepsitoryProject_MethodPattern.csproj.CoreCompileInputs.cache
+D:\R52\M2\Projects\10\Ex03RepsitoryProject_1270542\Ex03RepsitoryProject_MethodPattern\obj\Debug\Ex03RepsitoryProject_MethodPattern.exe
+D:\R52\M2\Projects\10\Ex03RepsitoryProject_1270542\Ex03RepsitoryProject_MethodPattern\obj\Debug\Ex03RepsitoryProject_MethodPattern.pdb

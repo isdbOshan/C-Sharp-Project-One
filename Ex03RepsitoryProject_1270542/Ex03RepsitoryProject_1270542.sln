@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03RepsitoryProject_MethodPattern", "Ex03RepsitoryProject_MethodPattern\Ex03RepsitoryProject_MethodPattern.csproj", "{DA9CAAFD-BCDF-4268-A504-AD0862F8C4B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03RepsitoryProject_FactoryPattern", "Ex03RepsitoryProject_FactoryPattern\Ex03RepsitoryProject_FactoryPattern.csproj", "{3324652E-0C85-4A9A-9D90-78DEDD6A18EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA9CAAFD-BCDF-4268-A504-AD0862F8C4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9CAAFD-BCDF-4268-A504-AD0862F8C4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9CAAFD-BCDF-4268-A504-AD0862F8C4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9CAAFD-BCDF-4268-A504-AD0862F8C4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3324652E-0C85-4A9A-9D90-78DEDD6A18EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3324652E-0C85-4A9A-9D90-78DEDD6A18EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3324652E-0C85-4A9A-9D90-78DEDD6A18EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3324652E-0C85-4A9A-9D90-78DEDD6A18EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AAE4B37-4D6A-4843-8C01-3DE0A8E077F8}
+	EndGlobalSection
+EndGlobal
